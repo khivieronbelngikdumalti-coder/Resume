@@ -6,7 +6,7 @@
 </head>
 <body>
      <h1>Khivieron Dumalti</h1>
- 
+ <
     <img src="./Pic.jpeg" alt="Profile Photo" width="200">
 
     <h2>Summary</h2>
@@ -15,6 +15,7 @@
     I have simple skills in software developement, and data management.
     I am also good in programming languages like java, python and Html.
     </p>
+    
 <hr/>
 
     <h2>Education</h2>
