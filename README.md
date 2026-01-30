@@ -6,9 +6,7 @@
 </head>
 <body>
      <h1>Khivieron Dumalti</h1>
- <
     <img src="./Pic.jpeg" alt="Profile Photo" width="200">
-
     <h2>Summary</h2>
     <p>
     I am a BSIT graduate that aspires to become a web developer.
@@ -17,7 +15,6 @@
     </p>
     
 <hr/>
-
     <h2>Education</h2>
     <ul>
         <li>
@@ -29,11 +26,9 @@
             Senior High School<br>
             Loo National High School<br>
             2021 - 2023
-
         </li>
         <hr/>
     </ul>
-
     <h2>Work Experience</h2>
     <ul>
                 <li>Programming assistant</li>
